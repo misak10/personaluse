@@ -32,5 +32,3 @@ payload:
   - DOMAIN-KEYWORD,misty
   - DOMAIN-KEYWORD,odysseyplus
   - DOMAIN-KEYWORD,jmsooo
-  - IP-CIDR,161.97.148.156/24
-  - IP-CIDR,202.61.255.248/24
