@@ -36,3 +36,6 @@ payload:
   - DOMAIN-KEYWORD,odysseyplus
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,jmsuper
+  - IP-CIDR,155.53.133.214/32,no-resolve
+  - PROCESS-NAME,com.hush.yamby
+  - PROCESS-NAME,com.mountains.hills
