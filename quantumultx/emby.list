@@ -30,6 +30,7 @@ HOST-KEYWORD,emby
 HOST-KEYWORD,studyfun
 HOST-KEYWORD,infinityfly
 HOST-KEYWORD,nijigem
+IP-CIDR,155.53.133.214/32,no-resolve
 HOST-KEYWORD,singularity
 HOST-KEYWORD,misty
 HOST-KEYWORD,odysseyplus
